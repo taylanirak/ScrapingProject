@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="petlebi_products">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/partz/petscraper/petlebi_products.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
